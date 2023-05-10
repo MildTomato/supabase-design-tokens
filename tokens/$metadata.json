@@ -4,9 +4,10 @@
     "typography",
     "dark",
     "light",
-    "dark_new",
-    "more space",
-    "dark_darker",
-    "experimental/dark"
+    "new/global",
+    "new/root",
+    "new/light",
+    "new/darker-dark",
+    "dark_new"
   ]
 }

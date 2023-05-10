@@ -231,7 +231,7 @@
         "code": {
           "value": {
             "fontFamily": "{fontFamilies.body2}",
-            "fontWeight": "$fontWeights.heading-mono",
+            "fontWeight": "{fontWeights.heading-mono}",
             "lineHeight": "9",
             "fontSize": "9",
             "letterSpacing": "0.5%",

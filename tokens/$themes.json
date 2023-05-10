@@ -1,5 +1,22 @@
 [
   {
+    "id": "f5feb0d8ddfeace66dc28424a46bbc4e4fe21d6d",
+    "name": "dark",
+    "selectedTokenSets": {
+      "new/root": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "8a2a94cc2d091998736de922735f7c19ca6cc25e",
+    "name": "light",
+    "selectedTokenSets": {
+      "new/root": "source",
+      "new/light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "4ef4bcdc4b1092c4b374f13cd29586c0c308b921",
     "name": "Dark",
     "selectedTokenSets": {
