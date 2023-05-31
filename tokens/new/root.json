@@ -1,6 +1,6 @@
 {
   "theme-variables": {
-    "brand": {
+    "NEW-BRAND-NAME": {
       "value": "#3ECF8E",
       "type": "color"
     },
@@ -357,7 +357,7 @@
     },
     "link": {
       "DEFAULT": {
-        "value": "{theme-variables.brand}",
+        "value": "{theme-variables.NEW-BRAND-NAME}",
         "type": "color"
       }
     },
