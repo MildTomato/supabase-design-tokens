@@ -11,9 +11,9 @@
     "context-menu": {
       "value": {
         "x": "0",
-        "y": "2",
-        "blur": "5",
-        "spread": "3",
+        "y": "4",
+        "blur": "7",
+        "spread": "5",
         "color": "rgba(0,0,0,0.1)",
         "type": "dropShadow"
       },

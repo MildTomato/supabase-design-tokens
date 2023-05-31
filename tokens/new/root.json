@@ -50,6 +50,20 @@
       "type": "color",
       "description": "Background color used for the main page body."
     },
+    "body-hint": {
+      "value": "{backgroundColor.body}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "{shading.softest}",
+            "space": "hsl",
+            "color": "{utility.mix-positive}"
+          }
+        }
+      }
+    },
     "body-alt": {
       "value": "{theme-variables.background-body-alt}",
       "type": "color"
@@ -398,6 +412,10 @@
   "shading": {
     "DEFAULT": {
       "value": "0.1",
+      "type": "other"
+    },
+    "softest": {
+      "value": "0.02",
       "type": "other"
     },
     "soft": {
