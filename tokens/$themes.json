@@ -21,7 +21,6 @@
     "name": "Dark",
     "selectedTokenSets": {
       "global": "source",
-      "dark": "enabled",
       "typography": "enabled"
     },
     "$figmaStyleReferences": {
@@ -70,8 +69,6 @@
     "name": "Light",
     "selectedTokenSets": {
       "global": "source",
-      "dark": "enabled",
-      "light": "enabled",
       "typography": "enabled"
     },
     "$figmaStyleReferences": {
