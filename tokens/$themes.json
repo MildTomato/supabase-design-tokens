@@ -5,9 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global": "enabled",
-      "typography": "enabled",
-      "new/dark": "disabled",
-      "new/light": "disabled"
+      "typography": "enabled"
     },
     "group": "Core",
     "$figmaCollectionId": "VariableCollectionId:2586:15290",
@@ -156,8 +154,7 @@
     "selectedTokenSets": {
       "typography": "source",
       "global": "source",
-      "new/dark": "enabled",
-      "new/light": "disabled"
+      "new/dark": "enabled"
     },
     "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:2586:15425",
@@ -175,7 +172,8 @@
       "border.secondary": "VariableID:2586:15443",
       "border.overlay": "VariableID:2586:15444",
       "foreground.light": "VariableID:2586:15445",
-      "foreground.lighter": "VariableID:2586:15446"
+      "foreground.lighter": "VariableID:2586:15446",
+      "background.selection": "VariableID:2586:15786"
     }
   },
   {
@@ -185,11 +183,26 @@
     "selectedTokenSets": {
       "global": "source",
       "typography": "source",
-      "new/light": "source"
+      "new/light": "enabled"
     },
+    "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:2586:15425",
-    "$figmaModeId": "2586:7",
-    "$figmaVariableReferences": {},
-    "group": "Theme"
+    "$figmaModeId": "2586:8",
+    "$figmaVariableReferences": {
+      "foreground.DEFAULT": "VariableID:2586:15434",
+      "foreground.strong": "VariableID:2586:15447",
+      "foreground.muted": "VariableID:2586:15436",
+      "background.DEFAULT": "VariableID:2586:15437",
+      "background.muted": "VariableID:2586:15438",
+      "background.secondary": "VariableID:2586:15439",
+      "background.overlay": "VariableID:2586:15440",
+      "border.DEFAULT": "VariableID:2586:15441",
+      "border.muted": "VariableID:2586:15442",
+      "border.secondary": "VariableID:2586:15443",
+      "border.overlay": "VariableID:2586:15444",
+      "foreground.light": "VariableID:2586:15445",
+      "foreground.lighter": "VariableID:2586:15446",
+      "background.selection": "VariableID:2586:15786"
+    }
   }
 ]

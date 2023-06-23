@@ -23,7 +23,7 @@
   },
   "background": {
     "DEFAULT": {
-      "value": "#fff",
+      "value": "{colors.Gray.Dark.2}",
       "type": "color"
     },
     "muted": {
@@ -36,6 +36,10 @@
     },
     "overlay": {
       "value": "{colors.Gray.Dark.3}",
+      "type": "color"
+    },
+    "selection": {
+      "value": "{colors.Gray.Dark.6}",
       "type": "color"
     }
   },
