@@ -35,7 +35,7 @@
       "type": "color"
     },
     "overlay": {
-      "value": "{colors.Slate.Light.1}",
+      "value": "{colors.Gray.Dark.3}",
       "type": "color"
     }
   },

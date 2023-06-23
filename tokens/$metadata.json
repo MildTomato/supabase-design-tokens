@@ -2,9 +2,7 @@
   "tokenSetOrder": [
     "global",
     "typography",
-    "new/global",
-    "new/root",
-    "new/light",
-    "new/darker-dark"
+    "new/dark",
+    "new/light"
   ]
 }

@@ -913,23 +913,12 @@
     "md": {
       "value": "18",
       "type": "sizing"
-    },
-    "bg": {
-      "value": "0.15",
-      "type": "opacity",
-      "description": "Transuclent bg of icons"
     }
   },
   "iconWidth": {
     "default": {
       "value": "1",
       "type": "borderWidth"
-    }
-  },
-  "form": {
-    "input-disabled": {
-      "value": "33%",
-      "type": "opacity"
     }
   },
   "Modal Drop Shadow": {
@@ -993,50 +982,12 @@
     "value": "{spacing.xl}*2",
     "type": "spacing"
   },
-  "actionBar": {
-    "vertical": {
-      "value": "21",
-      "type": "spacing"
-    },
-    "horizontal": {
-      "value": "32",
-      "type": "spacing"
-    }
-  },
-  "table": {
-    "header": {
-      "horizontal": {
-        "value": "32",
-        "type": "spacing"
-      }
-    }
-  },
-  "tabs": {
-    "horizontal": {
-      "value": "{spacing.md}",
-      "type": "spacing"
-    }
-  },
   "content": {
-    "vertical": {
-      "value": "{spacing.lg}",
-      "type": "spacing"
-    },
-    "horizontal": {
-      "value": "{spacing.lg}",
-      "type": "spacing"
-    },
     "width": {
       "screen-xl": {
         "value": "1128",
         "type": "sizing"
       }
-    }
-  },
-  "controller": {
-    "vertical": {
-      "value": "{spacing.md}",
-      "type": "spacing"
     }
   }
 }
