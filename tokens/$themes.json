@@ -168,6 +168,7 @@
       "typography": "source",
       "global": "source"
     },
+    "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:2562:15257",
     "$figmaModeId": "2562:11",
     "$figmaVariableReferences": {
@@ -178,15 +179,17 @@
       "utility.mix-positive": "VariableID:2562:15262",
       "utility.mix-negative": "VariableID:2562:15263",
       "utility.github.background": "VariableID:2562:15264"
-    },
-    "group": "Theme"
+    }
   },
   {
     "id": "f5feb0d8ddfeace66dc28424a46bbc4e4fe21d6d",
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "new/root": "enabled"
+      "new/root": "enabled",
+      "new/global": "source",
+      "typography": "source",
+      "global": "source"
     },
     "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:2562:15257",
@@ -233,7 +236,21 @@
       "textColor.danger.DEFAULT": "VariableID:2562:15445",
       "textColor.disabled.DEFAULT": "VariableID:2562:15446",
       "utility.mix-positive": "VariableID:2562:15262",
-      "utility.mix-negative": "VariableID:2562:15263"
+      "utility.mix-negative": "VariableID:2562:15263",
+      "foreground.primary": "VariableID:2586:15148"
     }
+  },
+  {
+    "id": "86187ab5ef82e4ba8c130ec31c2d02e1972d1143",
+    "name": "darker",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "typography": "enabled",
+      "new/global": "source",
+      "new/root": "source",
+      "new/darker-dark": "enabled"
+    },
+    "group": "Theme"
   }
 ]

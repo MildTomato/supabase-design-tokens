@@ -456,5 +456,11 @@
       "value": "#000",
       "type": "color"
     }
+  },
+  "foreground": {
+    "primary": {
+      "value": "#fff",
+      "type": "color"
+    }
   }
 }
