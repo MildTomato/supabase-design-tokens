@@ -166,7 +166,7 @@
       "background.DEFAULT": "VariableID:2586:15437",
       "background.muted": "VariableID:2586:15438",
       "background.secondary": "VariableID:2586:15439",
-      "background.overlay": "VariableID:2586:15440",
+      "background.overlay": "VariableID:2586:16762",
       "border.DEFAULT": "VariableID:2586:15441",
       "border.muted": "VariableID:2586:15442",
       "border.secondary": "VariableID:2586:15443",
@@ -175,6 +175,38 @@
       "foreground.lighter": "VariableID:2586:15446",
       "background.selection": "VariableID:2586:15786"
     }
+  },
+  {
+    "id": "07244292d8253d96780f6e2b28a502b5c8efb3e5",
+    "name": "new-set",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "typography": "source",
+      "new/new-set": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2586:15425",
+    "$figmaModeId": "2586:10",
+    "$figmaVariableReferences": {
+      "foreground.DEFAULT": "VariableID:2586:15434",
+      "foreground.strong": "VariableID:2586:15447",
+      "foreground.muted": "VariableID:2586:15436",
+      "background.DEFAULT": "VariableID:2586:15437",
+      "background.muted": "VariableID:2586:15438",
+      "background.secondary": "VariableID:2586:15439",
+      "background.overlay": "VariableID:2586:16762",
+      "border.DEFAULT": "VariableID:2586:15441",
+      "border.muted": "VariableID:2586:15442",
+      "border.secondary": "VariableID:2586:15443",
+      "border.overlay": "VariableID:2586:15444",
+      "foreground.light": "VariableID:2586:15445",
+      "foreground.lighter": "VariableID:2586:15446",
+      "background.selection": "VariableID:2586:15786",
+      "destructive.DEFAULT": "VariableID:2586:16756",
+      "destructive.200": "VariableID:2586:16757",
+      "destructive.300": "VariableID:2586:16758"
+    },
+    "group": "Theme"
   },
   {
     "id": "84d74d3c481d33380f16cfa2d4649dfc3127796e",
@@ -195,14 +227,17 @@
       "background.DEFAULT": "VariableID:2586:15437",
       "background.muted": "VariableID:2586:15438",
       "background.secondary": "VariableID:2586:15439",
-      "background.overlay": "VariableID:2586:15440",
+      "background.overlay": "VariableID:2586:16762",
       "border.DEFAULT": "VariableID:2586:15441",
       "border.muted": "VariableID:2586:15442",
       "border.secondary": "VariableID:2586:15443",
       "border.overlay": "VariableID:2586:15444",
       "foreground.light": "VariableID:2586:15445",
       "foreground.lighter": "VariableID:2586:15446",
-      "background.selection": "VariableID:2586:15786"
+      "background.selection": "VariableID:2586:15786",
+      "destructive.DEFAULT": "VariableID:2586:16756",
+      "destructive.200": "VariableID:2586:16757",
+      "destructive.300": "VariableID:2586:16758"
     }
   }
 ]
