@@ -60,5 +60,19 @@
       "value": "{colors.Gray.Dark.4}",
       "type": "color"
     }
+  },
+  "destructive": {
+    "200": {
+      "value": "#fd7d7d",
+      "type": "color"
+    },
+    "300": {
+      "value": "#ffbfbf",
+      "type": "color"
+    },
+    "DEFAULT": {
+      "value": "red",
+      "type": "color"
+    }
   }
 }
