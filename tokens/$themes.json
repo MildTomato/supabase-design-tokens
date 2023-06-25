@@ -245,7 +245,8 @@
       "destructive.200": "VariableID:2586:16757",
       "destructive.300": "VariableID:2586:16758",
       "destructive.DEFAULT": "VariableID:2586:16756",
-      "destructive.400": "VariableID:2617:16379"
+      "destructive.400": "VariableID:2617:16379",
+      "background.alternative": "VariableID:2617:16392"
     }
   }
 ]

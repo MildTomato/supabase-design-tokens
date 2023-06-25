@@ -41,6 +41,10 @@
     "selection": {
       "value": "{colors.Gray.Light.400}",
       "type": "color"
+    },
+    "alternative": {
+      "value": "#FFF",
+      "type": "color"
     }
   },
   "border": {
