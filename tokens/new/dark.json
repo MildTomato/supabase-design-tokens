@@ -45,6 +45,10 @@
     "control": {
       "value": "{colors.Gray.Dark.300}",
       "type": "color"
+    },
+    "alternative": {
+      "value": "{colors.Gray.Dark.100}",
+      "type": "color"
     }
   },
   "border": {
@@ -75,11 +79,15 @@
       "type": "color"
     },
     "300": {
-      "value": "#ffbfbf",
+      "value": "#451D1D",
+      "type": "color"
+    },
+    "400": {
+      "value": "#161616",
       "type": "color"
     },
     "DEFAULT": {
-      "value": "red",
+      "value": "#E5484D",
       "type": "color"
     }
   }
