@@ -41,6 +41,10 @@
     "selection": {
       "value": "{colors.Gray.Dark.600}",
       "type": "color"
+    },
+    "control": {
+      "value": "rgba(255,255,255,0.03)",
+      "type": "color"
     }
   },
   "border": {
@@ -58,6 +62,10 @@
     },
     "overlay": {
       "value": "{colors.Gray.Dark.400}",
+      "type": "color"
+    },
+    "control": {
+      "value": "{colors.Gray.Dark.600}",
       "type": "color"
     }
   },

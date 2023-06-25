@@ -176,7 +176,9 @@
       "border.overlay": "VariableID:2586:15444",
       "destructive.200": "VariableID:2586:16757",
       "destructive.300": "VariableID:2586:16758",
-      "destructive.DEFAULT": "VariableID:2586:16756"
+      "destructive.DEFAULT": "VariableID:2586:16756",
+      "background.control": "VariableID:2617:16012",
+      "border.control": "VariableID:2617:16013"
     }
   },
   {
