@@ -1,7 +1,7 @@
 {
   "foreground": {
     "DEFAULT": {
-      "value": "{colors.Slate.Light.12}",
+      "value": "{colors.Slate.Light.1200}",
       "type": "color"
     },
     "strong": {
@@ -13,17 +13,17 @@
       "type": "color"
     },
     "light": {
-      "value": "{colors.Slate.Light.11}",
+      "value": "{colors.Slate.Light.1100}",
       "type": "color"
     },
     "lighter": {
-      "value": "{colors.Slate.Light.10}",
+      "value": "{colors.Slate.Light.1000}",
       "type": "color"
     }
   },
   "background": {
     "DEFAULT": {
-      "value": "{colors.Slate.Light.1}",
+      "value": "{colors.Slate.Light.100}",
       "type": "color"
     },
     "muted": {
@@ -35,29 +35,29 @@
       "type": "color"
     },
     "overlay": {
-      "value": "{colors.Slate.Light.1}",
+      "value": "{colors.Slate.Light.100}",
       "type": "color"
     },
     "selection": {
-      "value": "{colors.Gray.Light.4}",
+      "value": "{colors.Gray.Light.400}",
       "type": "color"
     }
   },
   "border": {
     "DEFAULT": {
-      "value": "{colors.Gray.Dark.4}",
+      "value": "{colors.Gray.Dark.400}",
       "type": "color"
     },
     "muted": {
-      "value": "{colors.Gray.Dark.4}",
+      "value": "{colors.Gray.Dark.400}",
       "type": "color"
     },
     "secondary": {
-      "value": "{colors.Gray.Dark.4}",
+      "value": "{colors.Gray.Dark.400}",
       "type": "color"
     },
     "overlay": {
-      "value": "{colors.Slate.Light.4}",
+      "value": "{colors.Slate.Light.400}",
       "type": "color"
     }
   },
