@@ -90,5 +90,11 @@
       "value": "#E5484D",
       "type": "color"
     }
+  },
+  "warning": {
+    "100": {
+      "value": "yellow",
+      "type": "color"
+    }
   }
 }

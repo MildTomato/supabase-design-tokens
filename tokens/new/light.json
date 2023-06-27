@@ -82,5 +82,11 @@
       "value": "red",
       "type": "color"
     }
+  },
+  "warning": {
+    "100": {
+      "value": "#919d26",
+      "type": "color"
+    }
   }
 }

@@ -170,17 +170,18 @@
       "background.secondary": "VariableID:2586:15439",
       "background.overlay": "VariableID:2586:16762",
       "background.selection": "VariableID:2586:15786",
+      "background.control": "VariableID:2617:16012",
+      "background.alternative": "VariableID:2617:16392",
       "border.DEFAULT": "VariableID:2586:15441",
       "border.muted": "VariableID:2586:15442",
       "border.secondary": "VariableID:2586:15443",
       "border.overlay": "VariableID:2586:15444",
+      "border.control": "VariableID:2617:16013",
       "destructive.200": "VariableID:2586:16757",
       "destructive.300": "VariableID:2586:16758",
-      "destructive.DEFAULT": "VariableID:2586:16756",
-      "background.control": "VariableID:2617:16012",
-      "border.control": "VariableID:2617:16013",
       "destructive.400": "VariableID:2617:16379",
-      "background.alternative": "VariableID:2617:16392"
+      "destructive.DEFAULT": "VariableID:2586:16756",
+      "warning.100": "VariableID:2634:17234"
     }
   },
   {
@@ -238,15 +239,15 @@
       "background.secondary": "VariableID:2586:15439",
       "background.overlay": "VariableID:2586:16762",
       "background.selection": "VariableID:2586:15786",
+      "background.alternative": "VariableID:2617:16392",
       "border.DEFAULT": "VariableID:2586:15441",
       "border.muted": "VariableID:2586:15442",
       "border.secondary": "VariableID:2586:15443",
       "border.overlay": "VariableID:2586:15444",
       "destructive.200": "VariableID:2586:16757",
       "destructive.300": "VariableID:2586:16758",
-      "destructive.DEFAULT": "VariableID:2586:16756",
       "destructive.400": "VariableID:2617:16379",
-      "background.alternative": "VariableID:2617:16392"
+      "destructive.DEFAULT": "VariableID:2586:16756"
     }
   }
 ]
