@@ -92,7 +92,7 @@
     }
   },
   "warning": {
-    "100": {
+    "DEFAULT": {
       "value": "#fff900",
       "type": "color"
     }

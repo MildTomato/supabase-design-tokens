@@ -84,7 +84,7 @@
     }
   },
   "warning": {
-    "100": {
+    "DEFAULT": {
       "value": "#919d26",
       "type": "color"
     }
