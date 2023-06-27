@@ -92,8 +92,20 @@
     }
   },
   "warning": {
+    "200": {
+      "value": "#fdc867",
+      "type": "color"
+    },
+    "300": {
+      "value": "#593703",
+      "type": "color"
+    },
+    "400": {
+      "value": "#161616",
+      "type": "color"
+    },
     "DEFAULT": {
-      "value": "#fff900",
+      "value": "#FFB224",
       "type": "color"
     }
   }
