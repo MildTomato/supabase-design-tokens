@@ -49,6 +49,10 @@
     "alternative": {
       "value": "{colors.Gray.Dark.100}",
       "type": "color"
+    },
+    "sputnik": {
+      "value": "#60fa39",
+      "type": "color"
     }
   },
   "border": {

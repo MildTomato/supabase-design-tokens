@@ -45,6 +45,10 @@
     "alternative": {
       "value": "#FFF",
       "type": "color"
+    },
+    "sputnik": {
+      "value": "yellow",
+      "type": "color"
     }
   },
   "border": {
