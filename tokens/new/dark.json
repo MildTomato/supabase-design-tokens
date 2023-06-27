@@ -93,7 +93,7 @@
   },
   "warning": {
     "100": {
-      "value": "yellow",
+      "value": "#fff900",
       "type": "color"
     }
   }
