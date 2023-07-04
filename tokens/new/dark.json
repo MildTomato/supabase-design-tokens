@@ -108,5 +108,23 @@
       "value": "#FFB224",
       "type": "color"
     }
+  },
+  "brand": {
+    "200": {
+      "value": "#BDE5D0",
+      "type": "color"
+    },
+    "300": {
+      "value": "#2B805A",
+      "type": "color"
+    },
+    "400": {
+      "value": "#122B20",
+      "type": "color"
+    },
+    "PRIMARY": {
+      "value": "#3FCF8E",
+      "type": "color"
+    }
   }
 }
