@@ -9,7 +9,7 @@
       "type": "color"
     },
     "muted": {
-      "value": "#fff",
+      "value": "{colors.Gray.Dark.900}",
       "type": "color"
     },
     "light": {
@@ -26,18 +26,6 @@
       "value": "{colors.Gray.Dark.200}",
       "type": "color"
     },
-    "muted": {
-      "value": "#fff",
-      "type": "color"
-    },
-    "secondary": {
-      "value": "#FFF",
-      "type": "color"
-    },
-    "overlay": {
-      "value": "{colors.Gray.Dark.300}",
-      "type": "color"
-    },
     "selection": {
       "value": "{colors.Gray.Dark.600}",
       "type": "color"
@@ -49,6 +37,32 @@
     "alternative": {
       "value": "{colors.Gray.Dark.100}",
       "type": "color"
+    },
+    "surface": {
+      "100": {
+        "value": "{colors.Gray.Dark.300}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.Gray.Dark.400}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.Gray.Dark.500}",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "{colors.Gray.Dark.300}",
+        "type": "color",
+        "hover": {
+          "value": "{colors.Gray.Dark.400}",
+          "type": "color"
+        }
+      },
+      "overlay-hover": {
+        "value": "{colors.Gray.Dark.500}",
+        "type": "color"
+      }
     }
   },
   "border": {
@@ -115,7 +129,7 @@
       "type": "color"
     },
     "300": {
-      "value": "#2B805A",
+      "value": "#236547",
       "type": "color"
     },
     "400": {

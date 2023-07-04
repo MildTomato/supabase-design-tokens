@@ -168,7 +168,6 @@
       "background.DEFAULT": "457f082a641fe7ddd617d33b999dbc7c559b7b48",
       "background.muted": "1ace529fb6dcd6d55d39a76ecdce815b10b2fc88",
       "background.secondary": "0e877476d99b1bdd74de235e84bd8b67451608f6",
-      "background.overlay": "67366e127dd27b03ad9937807389ebc5090960f7",
       "background.selection": "ebbe5396262cd02fd0c51464085e39ae53943bce",
       "background.control": "f313edb2139a13f9f8d7e3c2c0cef9c5ae4617ca",
       "background.alternative": "f61eb611f9fbf5b700a6d039671c7807ee4a5351",
@@ -188,7 +187,13 @@
       "brand.200": "7f9207156dec569cfd81bb0fc571afffef4ede5d",
       "brand.300": "b7b1b885825add098f803951f5673d9a9328dc0c",
       "brand.400": "33e66e77af3acc1a18473d009600dd4460f69ad9",
-      "brand.PRIMARY": "badd81d5afab1d47f9086aa1ab2f3f747f072662"
+      "brand.PRIMARY": "badd81d5afab1d47f9086aa1ab2f3f747f072662",
+      "background.surface.overlay": "0e61282dca6490a2bf3664843554fdaf4dac2412",
+      "background.surface.overlay-hover": "2d0093ad3cfdc19d45a540188dfca20f53ecc525",
+      "background.surface.overlay.hover": "c6800e2adcf87d24b94d6121a098b4599f663084",
+      "background.surface.100": "aaf7034776657f000e6fd27d7509bb5a6672e986",
+      "background.surface.200": "6f0d4ac6a2fe57ed976d0bdc4beb6e0100635b85",
+      "background.surface.300": "f5ea59048b6683d6b74e788629f9bf25e90f9563"
     }
   },
   {
