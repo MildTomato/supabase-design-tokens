@@ -8,16 +8,16 @@
       "value": "#fff",
       "type": "color"
     },
-    "muted": {
-      "value": "{colors.Gray.Dark.900}",
-      "type": "color"
-    },
     "light": {
       "value": "{colors.Gray.Dark.1100}",
       "type": "color"
     },
     "lighter": {
       "value": "{colors.Gray.Dark.1000}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{colors.Gray.Dark.900}",
       "type": "color"
     }
   },
@@ -26,16 +26,16 @@
       "value": "{colors.Gray.Dark.200}",
       "type": "color"
     },
+    "alternative": {
+      "value": "{colors.Gray.Dark.100}",
+      "type": "color"
+    },
     "selection": {
       "value": "{colors.Gray.Dark.600}",
       "type": "color"
     },
     "control": {
       "value": "{colors.Gray.Dark.300}",
-      "type": "color"
-    },
-    "alternative": {
-      "value": "{colors.Gray.Dark.100}",
       "type": "color"
     },
     "surface": {
@@ -54,11 +54,7 @@
     },
     "overlay": {
       "value": "{colors.Gray.Dark.300}",
-      "type": "color",
-      "hover": {
-        "value": "{colors.Gray.Dark.400}",
-        "type": "color"
-      }
+      "type": "color"
     },
     "overlay-hover": {
       "value": "{colors.Gray.Dark.500}",
