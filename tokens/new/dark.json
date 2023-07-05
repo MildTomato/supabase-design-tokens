@@ -53,12 +53,14 @@
       }
     },
     "overlay": {
-      "value": "{colors.Gray.Dark.300}",
-      "type": "color"
-    },
-    "overlay-hover": {
-      "value": "{colors.Gray.Dark.500}",
-      "type": "color"
+      "DEFAULT": {
+        "value": "{colors.Gray.Dark.300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.Gray.Dark.500}",
+        "type": "color"
+      }
     }
   },
   "border": {

@@ -172,7 +172,6 @@
       "background.surface.100": "26a407a87e292a27808e02e5a56747f949991374",
       "background.surface.200": "2ae24990ad3190c8eec67e13e38cc3d0ad7c7c5f",
       "background.surface.300": "dc31c3a9a4e5da1368214b0ce7dc3d41bf6017c8",
-      "background.overlay-hover": "efe91474ec45d58d1eedb88668acd3a133303cdc",
       "border.DEFAULT": "6dd81d82c3c48b90a00ee07df0155f27e4693a50",
       "border.muted": "95d9adb870ce752c40610447ea33ae4742fd3ca4",
       "border.secondary": "bfaab2320e59b75e8cfdc27454e28ed2118d5417",
@@ -191,7 +190,8 @@
       "brand.400": "1f7c2ee45f51c705c79b98386e2bd2cfc2a7a8b1",
       "brand.PRIMARY": "bcc97e24725ee9f47599ddcee5efc9ecf63cf733",
       "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb",
-      "background.overlay.DEFAULT": "67366e127dd27b03ad9937807389ebc5090960f7"
+      "background.overlay.DEFAULT": "67366e127dd27b03ad9937807389ebc5090960f7",
+      "background.overlay.hover": "efe91474ec45d58d1eedb88668acd3a133303cdc"
     }
   },
   {

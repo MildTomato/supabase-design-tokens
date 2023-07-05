@@ -60,6 +60,10 @@
       "DEFAULT": {
         "value": "{colors.Slate.Light.100}",
         "type": "color"
+      },
+      "hover": {
+        "value": "{colors.Slate.Light.300}",
+        "type": "color"
       }
     }
   },
