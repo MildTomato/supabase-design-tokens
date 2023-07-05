@@ -190,7 +190,8 @@
       "brand.200": "2e30dccea213120358b3e22a796c915c6c151e76",
       "brand.300": "1ea79843e97ff8bdc550f98d42be2b1a261dc8cf",
       "brand.400": "1f7c2ee45f51c705c79b98386e2bd2cfc2a7a8b1",
-      "brand.PRIMARY": "bcc97e24725ee9f47599ddcee5efc9ecf63cf733"
+      "brand.PRIMARY": "bcc97e24725ee9f47599ddcee5efc9ecf63cf733",
+      "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb"
     }
   },
   {
@@ -228,7 +229,8 @@
       "warning.200": "0d4e361944ddd26b2f8dbeccd86c1b7848bf33d1",
       "warning.300": "b29843f90f00715588e64a738f5f5b8ebb0d7e3f",
       "warning.400": "bbf0b19c301921cb8e008b30cd52efcceb68314b",
-      "warning.DEFAULT": "fe1448df892bf91d758a2a2b0fd8833630fb8ba7"
+      "warning.DEFAULT": "fe1448df892bf91d758a2a2b0fd8833630fb8ba7",
+      "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb"
     }
   }
 ]

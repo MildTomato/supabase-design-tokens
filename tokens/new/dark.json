@@ -85,6 +85,10 @@
     "control": {
       "value": "{colors.Gray.Dark.600}",
       "type": "color"
+    },
+    "alternative": {
+      "value": "{colors.Gray.Dark.500}",
+      "type": "color"
     }
   },
   "destructive": {

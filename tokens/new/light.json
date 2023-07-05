@@ -63,6 +63,10 @@
     "overlay": {
       "value": "{colors.Slate.Light.500}",
       "type": "color"
+    },
+    "alternative": {
+      "value": "{colors.Slate.Light.500}",
+      "type": "color"
     }
   },
   "destructive": {
