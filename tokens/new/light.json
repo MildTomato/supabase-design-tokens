@@ -5,7 +5,7 @@
       "type": "color"
     },
     "strong": {
-      "value": "#fff",
+      "value": "{colors.Slate.Light.1200}",
       "type": "color"
     },
     "muted": {
