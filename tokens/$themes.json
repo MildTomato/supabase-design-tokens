@@ -172,7 +172,6 @@
       "background.surface.100": "26a407a87e292a27808e02e5a56747f949991374",
       "background.surface.200": "2ae24990ad3190c8eec67e13e38cc3d0ad7c7c5f",
       "background.surface.300": "dc31c3a9a4e5da1368214b0ce7dc3d41bf6017c8",
-      "background.overlay": "67366e127dd27b03ad9937807389ebc5090960f7",
       "background.overlay-hover": "efe91474ec45d58d1eedb88668acd3a133303cdc",
       "border.DEFAULT": "6dd81d82c3c48b90a00ee07df0155f27e4693a50",
       "border.muted": "95d9adb870ce752c40610447ea33ae4742fd3ca4",
@@ -191,7 +190,8 @@
       "brand.300": "1ea79843e97ff8bdc550f98d42be2b1a261dc8cf",
       "brand.400": "1f7c2ee45f51c705c79b98386e2bd2cfc2a7a8b1",
       "brand.PRIMARY": "bcc97e24725ee9f47599ddcee5efc9ecf63cf733",
-      "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb"
+      "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb",
+      "background.overlay.DEFAULT": "67366e127dd27b03ad9937807389ebc5090960f7"
     }
   },
   {
@@ -215,7 +215,6 @@
       "background.DEFAULT": "457f082a641fe7ddd617d33b999dbc7c559b7b48",
       "background.muted": "1ace529fb6dcd6d55d39a76ecdce815b10b2fc88",
       "background.secondary": "0e877476d99b1bdd74de235e84bd8b67451608f6",
-      "background.overlay": "67366e127dd27b03ad9937807389ebc5090960f7",
       "background.selection": "ebbe5396262cd02fd0c51464085e39ae53943bce",
       "background.alternative": "f61eb611f9fbf5b700a6d039671c7807ee4a5351",
       "border.DEFAULT": "6dd81d82c3c48b90a00ee07df0155f27e4693a50",
@@ -230,7 +229,8 @@
       "warning.300": "b29843f90f00715588e64a738f5f5b8ebb0d7e3f",
       "warning.400": "bbf0b19c301921cb8e008b30cd52efcceb68314b",
       "warning.DEFAULT": "fe1448df892bf91d758a2a2b0fd8833630fb8ba7",
-      "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb"
+      "border.alternative": "6f5cb025e80cfd911f1f4d3992d8cdbec1de0cbb",
+      "background.overlay.DEFAULT": "67366e127dd27b03ad9937807389ebc5090960f7"
     }
   }
 ]

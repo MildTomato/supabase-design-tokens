@@ -26,25 +26,41 @@
       "value": "{colors.Slate.Light.100}",
       "type": "color"
     },
-    "muted": {
-      "value": "#fff",
+    "selection": {
+      "value": "{colors.Gray.Light.400}",
       "type": "color"
     },
     "secondary": {
       "value": "#fff",
       "type": "color"
     },
-    "overlay": {
-      "value": "{colors.Slate.Light.100}",
-      "type": "color"
-    },
-    "selection": {
-      "value": "{colors.Gray.Light.400}",
+    "muted": {
+      "value": "#fff",
       "type": "color"
     },
     "alternative": {
       "value": "#FFF",
       "type": "color"
+    },
+    "surface": {
+      "100": {
+        "value": "{colors.Slate.Light.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.Slate.Light.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.Slate.Light.300}",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "DEFAULT": {
+        "value": "{colors.Slate.Light.100}",
+        "type": "color"
+      }
     }
   },
   "border": {
