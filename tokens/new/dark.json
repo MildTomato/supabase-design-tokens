@@ -50,19 +50,19 @@
       "300": {
         "value": "{colors.Gray.Dark.500}",
         "type": "color"
-      },
-      "overlay": {
-        "value": "{colors.Gray.Dark.300}",
-        "type": "color",
-        "hover": {
-          "value": "{colors.Gray.Dark.400}",
-          "type": "color"
-        }
-      },
-      "overlay-hover": {
-        "value": "{colors.Gray.Dark.500}",
+      }
+    },
+    "overlay": {
+      "value": "{colors.Gray.Dark.300}",
+      "type": "color",
+      "hover": {
+        "value": "{colors.Gray.Dark.400}",
         "type": "color"
       }
+    },
+    "overlay-hover": {
+      "value": "{colors.Gray.Dark.500}",
+      "type": "color"
     }
   },
   "border": {
