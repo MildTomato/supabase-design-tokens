@@ -102,6 +102,14 @@
       "value": "#fff7f7",
       "type": "color"
     },
+    "border": {
+      "value": "#ffbfbf",
+      "type": "color"
+    },
+    "background": {
+      "value": "#fff7f7",
+      "type": "color"
+    },
     "DEFAULT": {
       "value": "red",
       "type": "color"
