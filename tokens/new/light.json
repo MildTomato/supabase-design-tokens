@@ -93,7 +93,7 @@
       "type": "color"
     },
     "control": {
-      "value": "{colors.Slate.Light.500}",
+      "value": "{colors.Slate.Light.600}",
       "type": "color"
     }
   },
