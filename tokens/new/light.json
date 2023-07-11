@@ -91,6 +91,10 @@
     "alternative": {
       "value": "{colors.Slate.Light.500}",
       "type": "color"
+    },
+    "control": {
+      "value": "{colors.Slate.Light.500}",
+      "type": "color"
     }
   },
   "destructive": {
