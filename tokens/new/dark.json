@@ -65,7 +65,7 @@
   },
   "border": {
     "DEFAULT": {
-      "value": "{colors.Gray.Dark.400}",
+      "value": "{colors.Gray.Dark.500}",
       "type": "color"
     },
     "muted": {
