@@ -146,7 +146,7 @@
       "value": "#122B20",
       "type": "color"
     },
-    "PRIMARY": {
+    "DEFAULT": {
       "value": "#3FCF8E",
       "type": "color"
     }

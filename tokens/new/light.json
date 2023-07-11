@@ -8,10 +8,6 @@
       "value": "{colors.Slate.Light.1200}",
       "type": "color"
     },
-    "muted": {
-      "value": "#fff",
-      "type": "color"
-    },
     "light": {
       "value": "{colors.Slate.Light.1100}",
       "type": "color"
@@ -19,11 +15,15 @@
     "lighter": {
       "value": "{colors.Slate.Light.1000}",
       "type": "color"
+    },
+    "muted": {
+      "value": "{colors.Slate.Light.800}",
+      "type": "color"
     }
   },
   "background": {
     "DEFAULT": {
-      "value": "{colors.Slate.Light.100}",
+      "value": "{colors.Slate.Light.200}",
       "type": "color"
     },
     "selection": {
@@ -69,7 +69,7 @@
   },
   "border": {
     "DEFAULT": {
-      "value": "{colors.Gray.Dark.400}",
+      "value": "{colors.Slate.Light.500}",
       "type": "color"
     },
     "muted": {
