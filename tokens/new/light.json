@@ -52,11 +52,11 @@
         "type": "color"
       },
       "200": {
-        "value": "{colors.Slate.Light.200}",
+        "value": "{colors.Slate.Light.300}",
         "type": "color"
       },
       "300": {
-        "value": "{colors.Slate.Light.300}",
+        "value": "{colors.Slate.Light.400}",
         "type": "color"
       }
     },
@@ -143,11 +143,11 @@
       "type": "color"
     },
     "300": {
-      "value": "#236547",
+      "value": "#80d0ac",
       "type": "color"
     },
     "400": {
-      "value": "#122B20",
+      "value": "#b9f2d9",
       "type": "color"
     },
     "PRIMARY": {
