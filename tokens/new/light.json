@@ -34,6 +34,10 @@
       "value": "#fff",
       "type": "color"
     },
+    "control": {
+      "value": "{colors.Slate.Light.300}",
+      "type": "color"
+    },
     "muted": {
       "value": "#fff",
       "type": "color"
