@@ -91,27 +91,27 @@
   },
   "destructive": {
     "200": {
-      "value": "#fd7d7d",
+      "value": "#1D1412",
       "type": "color"
     },
     "300": {
-      "value": "#451D1D",
+      "value": "#3B1813",
       "type": "color"
     },
     "400": {
-      "value": "#161616",
+      "value": "#541C15",
       "type": "color"
     },
-    "background": {
-      "value": "#1f1315",
+    "500": {
+      "value": "#7F2315",
       "type": "color"
     },
-    "border": {
-      "value": "#822025",
+    "600": {
+      "value": "#F16A50",
       "type": "color"
     },
     "DEFAULT": {
-      "value": "#E5484D",
+      "value": "#E54D2E",
       "type": "color"
     }
   },

@@ -99,41 +99,49 @@
   },
   "destructive": {
     "200": {
-      "value": "#fd7d7d",
+      "value": "#FFFCFC",
       "type": "color"
     },
     "300": {
-      "value": "#ffbfbf",
+      "value": "#FFF0EE",
       "type": "color"
     },
     "400": {
-      "value": "#fff7f7",
+      "value": "#FDD8D3",
       "type": "color"
     },
-    "border": {
-      "value": "#ffbfbf",
+    "500": {
+      "value": "#F3B0A2",
       "type": "color"
     },
-    "background": {
-      "value": "#fff7f7",
+    "600": {
+      "value": "#CA3214",
       "type": "color"
     },
     "DEFAULT": {
-      "value": "red",
+      "value": "#E54D2E",
       "type": "color"
     }
   },
   "warning": {
     "200": {
-      "value": "#ffd381",
+      "value": "#FEFDFB",
       "type": "color"
     },
     "300": {
-      "value": "#ffebc7",
+      "value": "#FFF4D5",
       "type": "color"
     },
     "400": {
-      "value": "#fff4e0",
+      "value": "#FFE3A2",
+      "type": "color"
+    },
+    "500": {
+      "value": "#F3BA63",
+      "type": "color"
+    },
+    "600": {
+      "value": "#AD5700",
       "type": "color"
     },
     "DEFAULT": {
