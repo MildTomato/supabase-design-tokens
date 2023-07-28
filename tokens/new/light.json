@@ -170,7 +170,7 @@
       "value": "#2B805A",
       "type": "color"
     },
-    "PRIMARY": {
+    "DEFAULT": {
       "value": "#3FCF8E",
       "type": "color"
     }
