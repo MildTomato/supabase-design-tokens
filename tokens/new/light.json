@@ -151,15 +151,23 @@
   },
   "brand": {
     "200": {
-      "value": "#BDE5D0",
+      "value": "#F9FEFC",
       "type": "color"
     },
     "300": {
-      "value": "#80d0ac",
+      "value": "#E7FCF1",
       "type": "color"
     },
     "400": {
-      "value": "#b9f2d9",
+      "value": "#D0F3E1",
+      "type": "color"
+    },
+    "500": {
+      "value": "#8FD2AF",
+      "type": "color"
+    },
+    "600": {
+      "value": "#2B805A",
       "type": "color"
     },
     "PRIMARY": {
